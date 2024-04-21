@@ -6,8 +6,6 @@ Welcome to my Software Laboratory! Here, you'll find a variety of projects showc
 
 I'm a final year engineering student specializing in full stack development. I am deeply passionate about the world of engineering and computer science, constantly exploring new technologies and solutions.
 
-🎓 **Education:** Final year at [Your School Name], pursuing a degree in Engineering.
-
 ## 🛠️ Skills
 
 Below is a list of some programming languages and frameworks I am proficient in:
@@ -39,7 +37,6 @@ Below is a list of some programming languages and frameworks I am proficient in:
   </tr>
 </table>
 
-
 ## Backend Technologies:
 
 <table align="center">
@@ -67,7 +64,6 @@ Below is a list of some programming languages and frameworks I am proficient in:
   </tr>
 </table>
 
-
 ## Databases:
 <table align="center">
   <tr>
@@ -94,13 +90,18 @@ Below is a list of some programming languages and frameworks I am proficient in:
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+      <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50"/>
       </a>
     </td>
     <td align="center">
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://trello.com/fr" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="Trello" width="50" height="50"/>
       </a>
     </td>
   </tr>
