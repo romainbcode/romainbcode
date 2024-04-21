@@ -113,7 +113,5 @@ Below is a list of some programming languages and frameworks I am proficient in:
 
 ## 📈 My GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=romainbcode&show_icons=true)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romainbcode&label=Profile%20views&color=blue&style=flat" alt="romainbcode" /> </p
 
