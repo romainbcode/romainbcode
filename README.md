@@ -6,13 +6,19 @@ Welcome to my Software Laboratory! Here, you'll find a variety of projects showc
 
 I'm a final year engineering student specializing in full stack development. I am deeply passionate about the world of engineering and computer science, constantly exploring new technologies and solutions.
 
+[**My linkedin**](https://www.linkedin.com/in/romain-bizot)
+
 ## 🛠️ Skills
 
 Below is a list of some programming languages and frameworks I am proficient in:
 
-## Frontend Technologies:
+## Technologies
 
 <table align="center">
+  <tr>
+    <th colspan="4">Frontend</th>
+    <th colspan="4">Backend</th>
+  </tr>
   <tr>
     <td align="center">
       <a href="https://react.dev/" target="_blank" rel="noreferrer">
@@ -34,13 +40,6 @@ Below is a list of some programming languages and frameworks I am proficient in:
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
       </a>
     </td>
-  </tr>
-</table>
-
-## Backend Technologies:
-
-<table align="center">
-  <tr>
     <td align="center">
       <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="50" height="50"/>
@@ -63,9 +62,11 @@ Below is a list of some programming languages and frameworks I am proficient in:
     </td>
   </tr>
 </table>
-
-## Databases:
 <table align="center">
+  <tr>
+    <th colspan="3">Databases</th>
+    <th colspan="4">Tools & Technologies</th>
+  </tr>
   <tr>
     <td align="center">
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -82,13 +83,6 @@ Below is a list of some programming languages and frameworks I am proficient in:
         <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="Redis" width="50" height="50"/>
       </a>
     </td>
-  </tr>
-</table>
-
-## Tools & Technologies:
-
-<table align="center">
-  <tr>
     <td align="center">
       <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50"/>
@@ -100,16 +94,17 @@ Below is a list of some programming languages and frameworks I am proficient in:
       </a>
     </td>
     <td align="center">
-      <a href="https://trello.com/fr" target="_blank" rel="noreferrer">
+      <a href="https://trello.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="Trello" width="50" height="50"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
       </a>
     </td>
   </tr>
 </table>
-
-## 🌐 Connect with Me
-
-- [**Linkedin**](https://www.linkedin.com/in/romain-bizot)
 
 ## 📈 My GitHub Stats
 
